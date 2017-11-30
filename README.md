@@ -12,5 +12,5 @@ https://github.com/vuejs/vue
 
 ### Assets
 ```php
-xj\react\VueAsset::register($this);
+xj\vuejs\VueAsset::register($this);
 ```
